@@ -67,12 +67,12 @@ If there are any inquiries or questions, feel free to contact the organizers:
 {: .secondH}
 
 {:style="text-align:center;"}
-[![Faculty of Sciences of the University of Porto]({{ site.baseurl }}{% link assets/images/logo-fcup.png %} "logo")](https://fc.up.pt/){:target="blank"}
-[![University of Oslo]({{ site.baseurl }}{% link assets/images/logo-uio.png %} "logo")](https://www.uio.no/english/){:target="blank"}
-[![Vortex Co-lab]({{ site.baseurl }}{% link assets/images/logo-vortex.png %} "logoSmall")](https://www.vortex-colab.com/){:target="blank"}
-[![CISTER]({{ site.baseurl }}{% link assets/images/logo-cister.png %} "logoSmall")](https://www.cister-labs.pt/){:target="blank"}
-[![HAL4SDV]({{ site.baseurl }}{% link assets/images/logo-hal4sdv.avif %} "logoSmall")](https://www.hal4sdv.eu/){:target="blank"}
-[![CGD]({{ site.baseurl }}{% link assets/images/logo-cgd.webp %} "logo")](https://www.cgd.pt/){:target="blank"}
+[![Faculty of Sciences of the University of Porto]({{ site.baseurl }}{###% link assets/images/logo-fcup.png %} "logo")](https://fc.up.pt/){:target="blank"}
+[![University of Oslo]({{ site.baseurl }}{###% link assets/images/logo-uio.png %} "logo")](https://www.uio.no/english/){:target="blank"}
+[![Vortex Co-lab]({{ site.baseurl }}{###% link assets/images/logo-vortex.png %} "logoSmall")](https://www.vortex-colab.com/){:target="blank"}
+[![CISTER]({{ site.baseurl }}{###% link assets/images/logo-cister.png %} "logoSmall")](https://www.cister-labs.pt/){:target="blank"}
+[![HAL4SDV]({{ site.baseurl }}{###% link assets/images/logo-hal4sdv.avif %} "logoSmall")](https://www.hal4sdv.eu/){:target="blank"}
+[![CGD]({{ site.baseurl }}{###% link assets/images/logo-cgd.webp %} "logo")](https://www.cgd.pt/){:target="blank"}
 -->
 
 <!-- 
