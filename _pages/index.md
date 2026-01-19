@@ -4,7 +4,7 @@ permalink: /
 hide: true
 ---
 
-Welcome to the website of the International Workshop on Asynchronous Programming Models (formerly ABS Workshop), ETAPS edition, which will be held on the 16th – 17th April in Turin, Italy, right after [ETAPS 2026](https://etaps.org/2026). Information about prior iterations can be found [here](https://abs-models.org/publications/).
+Welcome to the website of the International Workshop on Asynchronous Programming Models (formerly ABS Workshop), After ETAPS Edition, which will be held on the 16th – 17th April in Turin, Italy, right after [ETAPS 2026](https://etaps.org/2026). Information about prior iterations can be found [here](https://abs-models.org/publications/).
 
 
 # NEWS - APM 2026 in Karlsruhe, Germany (KIT)

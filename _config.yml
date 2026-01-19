@@ -20,7 +20,7 @@
 
 include: [_pages]
 title: APM 2026
-subtitle: International Asynchronous Programming Models Workshop - ETAPS edition, in Turin, Italy
+subtitle: International Asynchronous Programming Models Workshop - After ETAPS Edition, in Turin, Italy
 date: 16-17 April 2026
 baseurl: "/2026" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
