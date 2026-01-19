@@ -50,17 +50,18 @@ The registration prices are listed below:
 The workshop will be held at the University of Porto, located at the centre of the beautiful city of Porto. More concrete details will be provided later.
  -->
 
-<!-- 
+
 ## Organizers
 {: .secondH}
 
 If there are any inquiries or questions, feel free to contact the organizers:
 
 - __Steering Committee:__ Einar Johnsen, Ferruccio Damiani, and Reiner Hähnle
-- __Program Chairs:__ José Proença and Silvia Lizeth Tapia Tarifa
-- __Local Organization:__  José Proença, João Barbosa, and David Pereira
-- __Wine Chair:__ Reiner Hähnle
- -->
+- __Program Chairs:__ Maurice ter Beek and José Proença
+- __Local Organization:__  Ferruccio Damiani e Luca Paolini
+
+<!-- - __Wine Chair:__ Reiner Hähnle -->
+
 
 <!-- 
 ## Sponsors
