@@ -34,9 +34,9 @@ The APM workshop stands in the tradition of the ABS workshop, whose last iterati
 <!--
 There will be no reviewing, but attendance is subject to approval by the organizers. If you previously filled the pre-registration form, this will replace your previous information, keeping the title and abstract unchanged when left empty.
 
- - [Pre-registration form](https://forms.gle/Wny3pB9sGV8eonwu5)
+ - [Pre-registration form](https://forms.gle/M51HAAJf2jxfLbvy7)
 
- - [Final Registration form](https://forms.gle/AQSoqceYgN14T6G46)
+ - [Final Registration form]()
 
 The registration prices are listed below:
 
