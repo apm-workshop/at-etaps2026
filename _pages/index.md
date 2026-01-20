@@ -8,7 +8,9 @@ Welcome to the website of the International Workshop on Asynchronous Programming
 
 <hr>
 
-# NEWS - APM 2026 in Karlsruhe, Germany (KIT)
+## NEWS - APM 2026 in Karlsruhe, Germany (KIT)
+{: .secondH}
+
 Karlsruhe Institute of Technology (KIT) will host the workshop. __7-9 October, 2026__. Save the dates! Further information can be found [[here]](https://apm-workshop.github.io/2025/assets/APM-2026-Invitation.pdf), and more will be available soon. For questions, please contact Asmae Tabar (asmae.heydari-tabar@kit.edu).
 
 <hr>
