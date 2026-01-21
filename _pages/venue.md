@@ -16,7 +16,7 @@ This special edition of APM will be colocated next to ETAPS 2026, although it is
 ## Social event
 {: .secondH}
 
-There will be a social event on the 16th April at the _Enoteca Rosso Rubino_.
+There will be a social event on the 16th April, in the evening, at the _Enoteca Rosso Rubino_.
 
 
 For further information, please contact one of the local organizers.
