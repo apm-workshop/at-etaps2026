@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 include: [_pages]
-title: APM@ETAPS 2026
-subtitle: International Asynchronous Programming Models Workshop - After ETAPS Edition, in Turin, Italy
+title: APM@ETAPS 2026 (s.e.)
+subtitle: International Asynchronous Programming Models Workshop (s.e.) - After ETAPS Edition, in Turin, Italy
 date: 16-17 April 2026
 baseurl: "/at-ETAPS2026" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
