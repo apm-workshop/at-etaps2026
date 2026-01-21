@@ -23,6 +23,6 @@ For further information, please contact one of the local organizers.
 
 <!-- General Organization: José Proença -->
 
-- [Ferruccio Damiani]([...](https://www.di.unito.it/~damiani/))
-- [Luca Paolini](...https://www.di.unito.it/~paolini/)
+- [Ferruccio Damiani](https://www.di.unito.it/~damiani/)
+- [Luca Paolini](https://www.di.unito.it/~paolini/)
 
