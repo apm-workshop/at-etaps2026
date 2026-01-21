@@ -31,30 +31,25 @@ The APM Workshop is a venue for the discussion of asynchronous programming patte
 
 The APM workshop stands in the tradition of the ABS workshop, whose last iteration took place in Porto, Portugal, but is not specific to any language or paradigm.
 
-<!--
 ## Registration
 {: .secondH #registration}
--->
 
-<!-- The official registration and prices are not yet available. However, we invite you to submit the pre-registration form without any commitment, to help us organising this event. -->
+The official registration and prices are not yet available. However, we invite you to submit the pre-registration form without any commitment, to help us organising this event.
 
 <!-- The official registration is now closed since __18th Sep__. If you would still like to join, please contact jose.proenca@fc.up.pt. -->
 
-<!--
-There will be no reviewing, but attendance is subject to approval by the organizers. If you previously filled the pre-registration form, this will replace your previous information, keeping the title and abstract unchanged when left empty.
+
+<!-- There will be no reviewing, but attendance is subject to approval by the organizers. If you previously filled the pre-registration form, this will replace your previous information, keeping the title and abstract unchanged when left empty. -->
 
  - [Pre-registration form](https://forms.gle/M51HAAJf2jxfLbvy7)
 
- - [Final Registration form]()
+ <!-- - [Final Registration form]() -->
 
 The registration prices are listed below:
 
- - Basic (includes 3 lunches, 110€)
- - Standard (basic + a social dinner on Wednesday, 150€)
- - Regular (basic + a  social event on Thursday evening, 180€)
- - Full (standard + a social event on Thursday evening, 230€)
+ - Basic (includes 1 coffee break and 1 lunch on Friday, April 17)
+ - Standard (basic + a social event on Thursday, April 16)
 
--->
 
 <!--
 ## Venue
