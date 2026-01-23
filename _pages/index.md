@@ -47,8 +47,8 @@ The official registration and prices are not yet available. However, we invite y
 
 The registration options are listed below:
 
- - Reduced (includes 1 coffee break and 1 lunch on Friday, April 17)
- - Normal (includes Reduced + a social event on Thursday, April 16)
+ - Basic (includes 1 coffee break and 1 lunch on Friday, April 17)
+ - Standard (includes Basic + a social event on Thursday, April 16)
 
 
 <!--
