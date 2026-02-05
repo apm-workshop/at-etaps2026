@@ -50,13 +50,16 @@ The registration options are listed below:
 <table>
  <tr>
   <th>Registration type</th>
-  <th>Early (untill March 10, 2026)</thr>
-  <th>Normal (from March 11 to April 3, 2026)</th>
+  <th>Early 
+   <b>
+    (untill March 10, 2026)</thr>
+  <th>Normal 
+   <br>
+   (from March 11 to April 3, 2026)</th>
  </tr>
  <tr>
   <td>
    Basic 
-   <br>
    (includes 1 coffee break and 1 lunch on Friday, April 17)
  </td>
   <td>
@@ -69,10 +72,9 @@ The registration options are listed below:
  <tr>
   <td>
   Standard 
-   <br>
    (includes Basic + a social event on Thursday, April 16) 
    <br>
-   <b>LIMITED AVAILABILITY, if interested, please (pre-)register asap!</b> 
+   <b>LIMITED AVAILABILITY (first come, first served)</b> 
    </br>
   </td>
  <td>
