@@ -65,7 +65,7 @@ The registration options are listed below:
    €90
   </td> 
   <td>
-   €110
+   €140
   </td> 
  </tr>
  <tr>
@@ -77,7 +77,7 @@ The registration options are listed below:
    </br>
   </td>
  <td>
-   €140
+   €200
   </td> 
  <td>
    €250
