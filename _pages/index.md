@@ -51,7 +51,7 @@ The registration options are listed below:
  <tr>
   <th>Registration type</th>
   <th>Early 
-   <b>
+   <br>
     (untill March 10, 2026)</thr>
   <th>Normal 
    <br>
@@ -74,7 +74,7 @@ The registration options are listed below:
   Standard 
    (includes Basic + a social event on Thursday, April 16) 
    <br>
-   <b>LIMITED AVAILABILITY (first come, first served)</b> 
+   <b>LIMITED AVAILABILITY (register asap!)</b> 
    </br>
   </td>
  <td>
