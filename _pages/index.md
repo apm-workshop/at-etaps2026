@@ -31,7 +31,7 @@ The APM Workshop is a venue for the discussion of asynchronous programming patte
 
 The APM workshop stands in the tradition of the ABS workshop, whose last iteration took place in Porto, Portugal, but is not specific to any language or paradigm.
 
-## Registration
+## Pre-Registration and Registration
 {: .secondH #registration}
 
  We invite you to submit the pre-registration form to specify whether you are willing to give a talk and in which type of registration (Basic or Standard) you are interested.
