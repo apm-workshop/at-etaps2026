@@ -55,7 +55,9 @@ The registration options are listed below:
  </tr>
  <tr>
   <td>
-   Basic (includes 1 coffee break and 1 lunch on Friday, April 17)
+   Basic 
+   <br>
+   (includes 1 coffee break and 1 lunch on Friday, April 17)
  </td>
   <td>
    €90
@@ -66,7 +68,9 @@ The registration options are listed below:
  </tr>
  <tr>
   <td>
-  Standard (includes Basic + a social event on Thursday, April 16) 
+  Standard 
+   <br>
+   (includes Basic + a social event on Thursday, April 16) 
    <br>
    <b>LIMITED AVAILABILITY, if interested, please (pre-)register asap!</b> 
    </br>
