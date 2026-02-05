@@ -87,7 +87,7 @@ The registration options are listed below:
  </tr>
 </table>
 
-If you previously filled the pre-registration form, this will replace your previous information about the registration type <i>(title and abstract will remain unaffected)</i>. 
+If you previously filled the pre-registration form, this will replace your previous information about the registration type <i><b>(title and abstract will remain unaffected)</b></i>. 
 
 
 - [Basic registration](https://ticket.synesthesia.it/synesthesia/etaps-2026/redeem?voucher=APMWORKSHOPBASIC)
