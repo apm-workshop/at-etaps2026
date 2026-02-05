@@ -34,7 +34,7 @@ The APM workshop stands in the tradition of the ABS workshop, whose last iterati
 ## Pre-Registration and Registration
 {: .secondH #registration}
 
- We invite you to submit the pre-registration form to specify whether you are willing to give a talk and in which type of registration (Basic or Standard) you are interested.
+ We invite you to submit the pre-registration form to specify whether you are willing to give a talk and in which  <i>registration type</i> (Basic or Standard) you are interested.
 
 <!-- The official registration is now closed since __18th Sep__. If you would still like to join, please contact jose.proenca@fc.up.pt. -->
 
@@ -85,7 +85,7 @@ The registration options are listed below:
  </tr>
 </table>
 
-If you previously filled the pre-registration form, this will replace your previous information about the type of registration. 
+If you previously filled the pre-registration form, this will replace your previous information about the registration type <i>(title and abstract will remain unaffected)</i>. 
 
 
 - [Basic registration](https://ticket.synesthesia.it/synesthesia/etaps-2026/redeem?voucher=APMWORKSHOPBASIC)
