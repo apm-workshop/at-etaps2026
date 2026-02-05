@@ -48,10 +48,12 @@ The registration options are listed below:
 
 <table>
  <tr>
-  <th>Registration type</th>
+  <th>
+   Registration type</th>
   <th>Early 
    <br>
-    (untill March 10, 2026)</thr>
+    (untill March 10, 2026)
+</th>
   <th>Normal 
    <br>
    (from March 11 to April 3, 2026)</th>
