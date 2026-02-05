@@ -47,8 +47,39 @@ The official registration and prices are not yet available. However, we invite y
 
 The registration options are listed below:
 
- - Basic (includes 1 coffee break and 1 lunch on Friday, April 17)
- - Standard (includes Basic + a social event on Thursday, April 16) -- <b>LIMITED AVAILABILITY, if interested, please (pre-)register asap!</b> 
+<table>
+ <tr>
+  <th>Registration type</th>
+  <th>Early (untill March 10, 2026)</thr>
+  <th>Normal (from March 11 to April 3, 2026)</th>
+ </tr>
+ <tr>
+  <td>
+   Basic (includes 1 coffee break and 1 lunch on Friday, April 17)
+ </td>
+  <td>
+   €90
+  </td> 
+  <td>
+   €110
+  </td> 
+ </tr>
+ <tr>
+  <td>
+  Standard (includes Basic + a social event on Thursday, April 16) 
+   <br>
+   <b>LIMITED AVAILABILITY, if interested, please (pre-)register asap!</b> 
+   </br>
+  </td>
+ <td>
+   €140
+  </td> 
+ <td>
+   €250
+  </td> 
+ </tr>
+</table>
+
 
 
 <!--
