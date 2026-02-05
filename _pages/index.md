@@ -76,7 +76,6 @@ The registration options are listed below:
    (includes Basic + a social event on Thursday, April 16) 
    <br>
    <b>LIMITED AVAILABILITY</b> 
-   </br>
   </td>
  <td>
    €200
