@@ -34,16 +34,15 @@ The APM workshop stands in the tradition of the ABS workshop, whose last iterati
 ## Registration
 {: .secondH #registration}
 
-The official registration and prices are not yet available. However, we invite you to submit the pre-registration form without any commitment, to help us organising this event.
+ We invite you to submit the pre-registration form to specify whether you are willing to give a talk and in which type of registration (Basic or Standard) you are interested.
 
 <!-- The official registration is now closed since __18th Sep__. If you would still like to join, please contact jose.proenca@fc.up.pt. -->
 
-
-<!-- There will be no reviewing, but attendance is subject to approval by the organizers. If you previously filled the pre-registration form, this will replace your previous information, keeping the title and abstract unchanged when left empty. -->
+There will be no reviewing, but attendance is subject to approval by the organizers. 
 
  - [Pre-registration form](https://forms.gle/M51HAAJf2jxfLbvy7)
 
- <!-- - [Final Registration form]() -->
+ 
 
 The registration options are listed below:
 
@@ -86,7 +85,12 @@ The registration options are listed below:
  </tr>
 </table>
 
+If you previously filled the pre-registration form, this will replace your previous information about the type of registration. 
 
+
+- [Basic registration](https://ticket.synesthesia.it/synesthesia/etaps-2026/redeem?voucher=APMWORKSHOPBASIC)
+
+- [Standard registration](https://ticket.synesthesia.it/synesthesia/etaps-2026/redeem?voucher=APMWORKSHOPSTANDARD)
 
 <!--
 ## Venue
