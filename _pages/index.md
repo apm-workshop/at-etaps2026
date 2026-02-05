@@ -75,7 +75,7 @@ The registration options are listed below:
   Standard 
    (includes Basic + a social event on Thursday, April 16) 
    <br>
-   <b>LIMITED AVAILABILITY (register asap!)</b> 
+   <b>LIMITED AVAILABILITY</b> 
    </br>
   </td>
  <td>
