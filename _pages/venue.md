@@ -1,4 +1,4 @@
-d at---
+---
 layout: page_plain
 title: Venue
 permalink: /venue/
