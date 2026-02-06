@@ -52,7 +52,7 @@ The registration options are listed below:
    Registration type</th>
   <th>Early 
    <br>
-    (untill March 10, 2026)
+    (until March 10, 2026)
 </th>
   <th>Normal 
    <br>
@@ -86,7 +86,7 @@ The registration options are listed below:
  </tr>
 </table>
 
-If you previously filled the pre-registration form, this will replace your previous information about the registration type <i><b>(title and abstract will remain unaffected)</b></i>. 
+<b>Please finalize the registration by proceeding with the payment (choose one of the two oprions below).</b> If you previously filled the pre-registration form, this will replace your previous information about the registration type <i><b>(title and abstract will remain unaffected)</b></i>. 
 
 
 - [Basic registration](https://ticket.synesthesia.it/synesthesia/etaps-2026/redeem?voucher=APMWORKSHOPBASIC)
