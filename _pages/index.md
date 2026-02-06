@@ -89,9 +89,9 @@ The registration options are listed below:
 <b>Please finalize the registration by proceeding with the payment (choose one of the two oprions below).</b> If you previously filled the pre-registration form, this will replace your previous information about the registration type <i><b>(title and abstract will remain unaffected)</b></i>. 
 
 
-- [Basic registration](https://ticket.synesthesia.it/synesthesia/etaps-2026/redeem?voucher=APMWORKSHOPBASIC)
+- [Basic registration form](https://ticket.synesthesia.it/synesthesia/etaps-2026/redeem?voucher=APMWORKSHOPBASIC)
 
-- [Standard registration](https://ticket.synesthesia.it/synesthesia/etaps-2026/redeem?voucher=APMWORKSHOPSTANDARD)
+- [Standard registration form](https://ticket.synesthesia.it/synesthesia/etaps-2026/redeem?voucher=APMWORKSHOPSTANDARD)
 
 <!--
 ## Venue
