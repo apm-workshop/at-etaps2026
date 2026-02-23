@@ -10,8 +10,10 @@ Welcome to the website of this <b>special edition</b> of the International Works
 
 <hr>
 
-<b>IMPORTANT:</b> this a special edition. The <b>standard edition of APM 2026</b> will be in Karlsruhe, Germany (KIT), __7-9 October, 2026__. Save the dates! Further information can be found [[here]](https://apm-workshop.github.io/2025/assets/APM-2026-Invitation.pdf), and more will be available soon. For questions, please contact Asmae Tabar (asmae.heydari-tabar@kit.edu).
-
+<b>IMPORTANT:</b> this a special edition. The <b>standard edition of APM 2026</b> will be hosted by TU Darmstadt, Germany, __7-9 October, 2026__. Save the dates! 
+<!--
+Further information can be found [[here]](https://apm-workshop.github.io/2025/assets/APM-2026-Invitation.pdf), and more will be available soon. For questions, please contact Asmae Tabar (asmae.heydari-tabar@kit.edu).
+-->
 <hr>
 <br>
 
@@ -19,7 +21,8 @@ Welcome to the website of this <b>special edition</b> of the International Works
 ## NEWS - APM 2026 in Karlsruhe, Germany (KIT)
 {: .secondH}
 
-Karlsruhe Institute of Technology (KIT) will host the workshop. __7-9 October, 2026__. Save the dates! Further information can be found [[here]](https://apm-workshop.github.io/2025/assets/APM-2026-Invitation.pdf), and more will be available soon. For questions, please contact Asmae Tabar (asmae.heydari-tabar@kit.edu).
+TU Darmstadt will host the workshop. __7-9 October, 2026__. Save the dates! 
+Further information can be found [[here]](https://apm-workshop.github.io/2025/assets/APM-2026-Invitation.pdf), and more will be available soon. For questions, please contact Asmae Tabar (asmae.heydari-tabar@kit.edu).
 
 <hr>
 -->
