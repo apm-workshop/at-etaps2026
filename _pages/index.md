@@ -10,7 +10,7 @@ Welcome to the website of this <b>special edition</b> of the International Works
 
 <hr>
 
-<b>IMPORTANT:</b> this a special edition. The <b>standard edition of APM 2026</b> will be hosted by TU Darmstadt, Germany, __7-9 October, 2026__. Save the dates! 
+<b>IMPORTANT:</b> this is a special edition. The <b>standard edition of APM 2026</b> will be hosted by TU Darmstadt, Germany, __7-9 October, 2026__. Save the dates! 
 <!--
 Further information can be found [[here]](https://apm-workshop.github.io/2025/assets/APM-2026-Invitation.pdf), and more will be available soon. For questions, please contact Asmae Tabar (asmae.heydari-tabar@kit.edu).
 -->
