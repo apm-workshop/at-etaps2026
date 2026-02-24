@@ -15,7 +15,7 @@ Information about prior iterations can be found [here](https://abs-models.org/pu
 <!--
 Further information can be found [[here]](https://apm-workshop.github.io/2025/assets/APM-2026-Invitation.pdf), and more will be available soon. 
 -->
-For questions, please send an mail to apm-2026@se.tu-darmstadt.de.
+ For questions, please send an mail to apm-2026@se.tu-darmstadt.de.
 <hr>
 <br>
 
