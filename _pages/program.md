@@ -7,11 +7,7 @@ published: false
 hide: false
 ---
 
-The workshop will take place at the __Department of Computer Science of the Faculty of Sciences of the University of Porto__, room ~~[FC6.106](https://sigarra.up.pt/fcup/en/INSTAL_GERAL.ESPACO_VIEW?pv_id=69060)~~ [FC6.142](https://sigarra.up.pt/fcup/en/instal_geral.espaco_view?pv_id=69087) of building [FC6](https://sigarra.up.pt/fcup/pt/instal_geral.edificio_view?pv_id=1332){:target="_blank"}.
-
-<!-- 
-and lunches will be served at the restaurant [__Maria Dentada__](https://mariadentada.pt/){:target="_blank"} ([map](https://maps.app.goo.gl/8qUxXhizfYyJ67Wg9){:target="_blank"}).
--->
+Note that the workshop will take place be in two different locations. On Thursday at the ETAPS main conference’s venue - Centro Congressi Lingotto, Via Nizza, 280, 10126 Torino - and on Friday at the ETAPS workshops venue - ITS Torino, Via Jacopo Durandi 10, Turin.
 
  <br> <br>
  
@@ -46,38 +42,48 @@ and lunches will be served at the restaurant [__Maria Dentada__](https://mariade
 	<thead>
             	<tr>
 	     		<th  rowspan="2">Time</th>
-			<th  colspan="3"> Building FC6, room FC6.142 (first floor - entrance is on the ground floor)</th>
+			<th  colspan="3"> APM@ETAPS 2026</th>
 		</tr>
             	<tr>
-			<th>Wednesday Oct. 01</th>
-			<th>Thursday Oct. 02</th>
-			<th>Friday Oct. 03</th>
+			<th>Thursday April 16</th>
+			<th>Friday april 17</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td> <b> 10:00 - 10:20 </b> </td> 
-			<td  style="text-align: center;"> <b> Coffee </b> </td>
-			<td colspan="2" rowspan="2" style="text-align: center;"> <b> Coffee </b> </td>
+			<td> <b> 09:00 - 10:00 </b> </td>
+			<td> <b> Chair: </b> </td>
+			<td> <b> Chair: </b> </td>
+		</tr>
+		<tr>
+			<td>  09:00 - 09:30  </td>
+			<td> </td>
+			<td> <em> Maurice ter Beek and José Proença: </em> Asynchronous Communication in Team Automata</td>
+			</td>
+			<td> <em> Jorge Pérez: </em> Asynchronous Session-based Concurrency: Deadlock Freedom by Typing</td>
+		</tr>		
+		<tr>
+			<td> <b> 10:00 - 10:30 </b> </td> 
+			<td  style="text-align: center;"> <b> </b> </td>
+			<td colspan="2" rowspan="2" style="text-align: center;"> <b> Coffee break </b> </td>
 		</tr>
 		<tr>
 			<td> <b> 10:20 - 10:30 </b> </td>
-			<td >  <em>  José Proença and S. Lizeth Tapia Tarifa: </em> Welcome and Practicalities </td>
+			<td >  </td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
 		</tr>
 		<tr>
 			<td> <b> 10:30 - 12:00 </b> </td>
-			<td> <b> Chair: </b> Einar Broch Johnsen</td>
-			<td> <b> Chair: </b> Frank de Boer </td>
-			<td> <b> Chair: </b> Ferruccio Damiani</td>
+			<td> <b> Chair: </b> </td>
+			<td> <b> Chair: </b> </td>
 		</tr>
 		<tr>
-			<td>  10:30 - 11:15  </td>
-			<td> <em> Davide Sangiorgi: </em> asyncrony in process calculi</td>
-			<td> <em> Charaf Eddine Dridi: </em> 
-				<a href="../assets/slides/apm25-charaf.pdf">Resource Contracts for Active Objects</a>
+			<td>  10:30 - 11:10  </td>
+			<td> </td>
+			<td> <em> Marco Scaletta 	 </em> 
+				Taming Big CATs
 			</td>
 			<td> <em> Jorge Pérez: </em> Asynchronous Session-based Concurrency: Deadlock Freedom by Typing</td>
 		</tr>
@@ -85,7 +91,6 @@ and lunches will be served at the restaurant [__Maria Dentada__](https://mariade
 			<td>  11:15 - 12:00  </td>
 			<td> <em> Ferruccio Damiani: </em> A Language for Resilient Distributed Systems</td>
 			<td> <em> Ulises Torrella: </em> Fair Termination for Resource-Aware Active Objects</td>
-			<td> <em> Maurice ter Beek and José Proença: </em> Towards Asynchronous Communication in Team Automata</td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
@@ -102,21 +107,16 @@ and lunches will be served at the restaurant [__Maria Dentada__](https://mariade
 			<td> <b> 14:00 - 15:30 </b> </td>
 			<td> <b> Chair: </b> Rudi Schlatte </td>
 			<td> <b> Chair: </b> S. Lizeth Tapia Tarifa </td>
-			<td> <b> Chair: </b> Violet Ka I Pun </td>
 		</tr>
 		<tr>
 			<td> 14:00 - 14:45  </td>
 			<td> <em> Daniel Drodt: </em> Is the Rust’s Tokio Runtime Fair?</td>
 			<td> <em> Reiner Hähnle: </em> An Introduction to LAGC Semantics</td>
-			<td> <em> Riccardo Sieve: </em> BedreFlyt - Improving Patient Flows through Hospital Wards with Digital Twins</td>
 		</tr>
 		<tr>
 			<td> 14:45 - 15:30  </td>
 			<td> <em> Michele Loreti: </em> A gentle introduction to YODA and its tools</td>
 			<td> <em> Frank de Boer: </em> First Order Hybrid Separation~Logic  </td>
-   			<td> <em> Michael Lienhardt: </em>
-   			<a href="../assets/slides/apm25-michael.pdf">Resource Contracts for Active Objects</a>
-   			</td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
@@ -149,7 +149,7 @@ and lunches will be served at the restaurant [__Maria Dentada__](https://mariade
 </body>
 
   <br> <br>
-  
+<!--  
 ## Abstracts of the Talks
 
 <br>
@@ -323,7 +323,7 @@ An important difficulty is that the exchange frequency may change at runtime, de
 In this talk, we illustrate the difficulties related to such an orchestration and present a generic approach to express such an orchestration.
 
 <br>
-
+-->
 
 <!-- 
 
