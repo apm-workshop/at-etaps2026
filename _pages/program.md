@@ -127,19 +127,29 @@ Note that the workshop will take place be in two different locations. On Thursda
 		 <td colspan="3"> </td>
 		</tr>
 		<tr>
-			<td> <b> 16:00 - 17:30 </b> </td>
-			<td> <b> Chair: </b> Volker Stolz </td>
-			<td> <b> Chair: </b> Reiner Hähnle </td>
+			<td> <b> 16:30 - 18:30 </b> </td>
+			<td> <b> Chair: </b>  </td>
+			<td> </td>
 		</tr>
 		<tr>
-			<td> 16:00 - 16:45 </td>
-			<td> <em> Frank de Boer: </em> Contract-based proof system for actors</td>
-			<td> <em> Rudi Schlatte: </em> ABS and update in its status </td>
+			<td> 16:30 - 17:10 </td>
+			<td> <em> Matteo Baldoni: </em> Evaluating the Benefits of Orpheus for Iterative and Incremental Development in MAS </td>
+			<td> </td>
 		</tr>
 		<tr>
-			<td> 16:45 - 17:30 </td>
-			<td> <em> Einar Broch Johnsen: </em> Declarative Dynamic Object Reclassification</td>
-			<td> Discussion </td>
+			<td> 17:10 - 17:40 </td>
+			<td> <em> Franco Barbanera: </em> Safe composition of systems of Communicating Finite State Machines </td>
+			<td> </td>
+		</tr>
+			<tr>
+			<td> 17:40 - 18:10 </td>
+			<td> <em> Riccardo Sieve: </em> A Self-Adaptive Digital Twin Architecture for Dynamic Resource Management </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td> 18:10 - 18:30 </td>
+			<td> <em> Daniel Drodt: </em> Towards Verification of Async Rust </td>
+			<td> </td>
 		</tr>
 	</tbody>
 </table>
