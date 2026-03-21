@@ -51,7 +51,7 @@ Note that the workshop will take place be in two different locations. On Thursda
 	<tbody>
 		<tr>
 			<td> <b> 09:00 - 10:00 </b> </td>
-			<td> <b> Chair: </b> </td>
+			<td> </td>
 			<td> <b> Chair: </b> </td>
 		</tr>
 		<tr>
@@ -75,21 +75,29 @@ Note that the workshop will take place be in two different locations. On Thursda
 		 <td colspan="3">  </td>
 		</tr>
 		<tr>
-			<td> <b> 10:30 - 12:00 </b> </td>
-			<td> <b> Chair: </b> </td>
+			<td> <b> 10:30 - 12:30 </b> </td>
+			<td> </td>
 			<td> <b> Chair: </b> </td>
 		</tr>
 		<tr>
 			<td>  10:30 - 11:10  </td>
 			<td> </td>
-			<td> <em> Marco Scaletta: </em> Taming Big CATs
-			</td>
-			<td> <em> Jorge Pérez: </em> Asynchronous Session-based Concurrency: Deadlock Freedom by Typing</td>
+			<td> <em> Marco Scaletta: </em> Taming Big CATs	</td>
 		</tr>
 		<tr>
-			<td>  11:15 - 12:00  </td>
-			<td> <em> Ferruccio Damiani: </em> A Language for Resilient Distributed Systems</td>
-			<td> <em> Ulises Torrella: </em> Fair Termination for Resource-Aware Active Objects</td>
+			<td>  11:10 - 11:40  </td>
+			<td> </td>
+			<td> <em> Emilio Tuosto: </em> Behavioural Types and Local-First Principles for Swarms </td>
+		</tr>
+			<tr>
+			<td>  11:40 - 12:10  </td>
+			<td> </td>
+			<td> <em> Michele Loreti: </em> Attribute-based Communication meets Security </td>
+		</tr>
+		<tr>
+			<td>  12:10 - 12:30  </td>
+			<td> </td>
+			<td> <em> Michael Lienhardt: </em> Automatic Generation of a Distributed and Asynchronous HPC Dataflow </td>
 		</tr>
 		<tr>
 		 <td colspan="3">  </td>
@@ -100,30 +108,20 @@ Note that the workshop will take place be in two different locations. On Thursda
 			 <td> <b> Lunch </b>  </td>
 		</tr>
 		<tr>
-		 <td colspan="4">  </td>
+		 <td colspan="3">  </td>
 		</tr>
 		<tr>
-			<td> <b> 14:00 - 15:30 </b> </td>
-			<td> <b> Chair: </b> Rudi Schlatte </td>
-			<td> <b> Chair: </b> S. Lizeth Tapia Tarifa </td>
-		</tr>
-		<tr>
-			<td> 14:00 - 14:45  </td>
-			<td> <em> Daniel Drodt: </em> Is the Rust’s Tokio Runtime Fair?</td>
-			<td> <em> Reiner Hähnle: </em> An Introduction to LAGC Semantics</td>
-		</tr>
-		<tr>
-			<td> 14:45 - 15:30  </td>
-			<td> <em> Michele Loreti: </em> A gentle introduction to YODA and its tools</td>
-			<td> <em> Frank de Boer: </em> First Order Hybrid Separation~Logic  </td>
+			<td> <b> 14:00 - 16:00 </b> </td>
+			<td> </td>
+			<td> Discussion? </td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
 		</tr>
 		<tr>
-			<td> <b> 15:30 - 16:00 </b> </td>
-   			<td colspan="2"> <b> Coffee Break </b> </td>
-			<td rowspan="5">-</td>
+			<td> <b> 16:00 - 16:30 </b> </td>
+   			<td> <b> Coffee Break </b> </td>
+			<td> </td>
 		</tr>
 		<tr>
 		 <td colspan="3"> </td>
