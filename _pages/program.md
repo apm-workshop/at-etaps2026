@@ -6,7 +6,7 @@ order: 8
 published: true
 ---
 
-Note that the workshop will take place be in two different locations. On Thursday at the ETAPS main conference’s venue - Centro Congressi Lingotto, Via Nizza, 280 - and on Friday at the ETAPS workshops venue - ITS Torino, Via Jacopo Durandi, 10.
+Note that the workshop will take place be in two different locations. On Thursday at the ETAPS main conferences venue - Centro Congressi Lingotto, Via Nizza, 280 - and on Friday at the ETAPS workshops venue - ITS Torino, Via Jacopo Durandi, 10.
 
  <br> <br>
  
@@ -41,11 +41,11 @@ Note that the workshop will take place be in two different locations. On Thursda
 	<thead>
             	<tr>
 	     		<th  rowspan="2">Time</th>
-			<th  colspan="3"> APM@ETAPS 2026</th>
+			<th  colspan="2"> APM@ETAPS 2026</th>
 		</tr>
             	<tr>
 			<th>Thursday April 16</th>
-			<th>Friday april 17</th>
+			<th>Friday April 17</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -57,21 +57,22 @@ Note that the workshop will take place be in two different locations. On Thursda
 		<tr>
 			<td>  09:00 - 09:30  </td>
 			<td> </td>
-			<td> <em> Maurice ter Beek and José Proença: </em> Asynchronous Communication in Team Automata</td>
-			</td>
-			<td> <em> Jorge Pérez: </em> Asynchronous Session-based Concurrency: Deadlock Freedom by Typing</td>
+			<td> <em> Maurice ter Beek: </em> Asynchronous Communication in Team Automata</td>
 		</tr>		
 		<tr>
-			<td> <b> 10:00 - 10:30 </b> </td> 
-			<td  style="text-align: center;"> <b> </b> </td>
-			<td colspan="2" rowspan="2" style="text-align: center;"> <b> Coffee break </b> </td>
+			<td>  09:30 - 10:00  </td>
+			<td> </td>
+			<td> <em> Vincenzo Ciancia: </em> Nearbytes: a minimalist, resilient, asynchronous toolkit</td>
+		</tr>				
+			 <td colspan="3">  </td>
 		</tr>
 		<tr>
-			<td> <b> 10:20 - 10:30 </b> </td>
-			<td >  </td>
+			<td> <b> 10:00 - 10:30 </b> </td>
+			 <td>  </td>
+			 <td> <b> Coffee break </b>  </td>
 		</tr>
 		<tr>
-		 <td colspan="4">  </td>
+		 <td colspan="3">  </td>
 		</tr>
 		<tr>
 			<td> <b> 10:30 - 12:00 </b> </td>
@@ -81,8 +82,7 @@ Note that the workshop will take place be in two different locations. On Thursda
 		<tr>
 			<td>  10:30 - 11:10  </td>
 			<td> </td>
-			<td> <em> Marco Scaletta 	 </em> 
-				Taming Big CATs
+			<td> <em> Marco Scaletta: </em> Taming Big CATs
 			</td>
 			<td> <em> Jorge Pérez: </em> Asynchronous Session-based Concurrency: Deadlock Freedom by Typing</td>
 		</tr>
@@ -92,12 +92,12 @@ Note that the workshop will take place be in two different locations. On Thursda
 			<td> <em> Ulises Torrella: </em> Fair Termination for Resource-Aware Active Objects</td>
 		</tr>
 		<tr>
-		 <td colspan="4">  </td>
+		 <td colspan="3">  </td>
 		</tr>
 		<tr>
-			<td> <b> 12:00 - 14:00 </b> </td>
-			<!--  <td colspan="3"> <b> Lunch at Maria Dentada </b> - Rua do Campo Alegre 1191, 4150-181 Porto </td> -->
-			 <td colspan="3"> <b> Lunch </b>  </td>
+			<td> <b> 12:30 - 14:00 </b> </td>
+			 <td> </td>
+			 <td> <b> Lunch </b>  </td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
