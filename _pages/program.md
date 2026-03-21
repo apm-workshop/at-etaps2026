@@ -3,8 +3,7 @@ layout: page_plain
 title: Program
 permalink: /program/
 order: 8
-published: false
-hide: false
+published: true
 ---
 
 Note that the workshop will take place be in two different locations. On Thursday at the ETAPS main conference’s venue - Centro Congressi Lingotto, Via Nizza, 280, 10126 Torino - and on Friday at the ETAPS workshops venue - ITS Torino, Via Jacopo Durandi 10, Turin.
