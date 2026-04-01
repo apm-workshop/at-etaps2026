@@ -57,7 +57,7 @@ Note that the workshop will take place be in two different locations. On Thursda
 		<tr>
 			<td>  09:00 - 09:30  </td>
 			<td> </td>
-			<td> <em> Maurice ter Beek: </em> Asynchronous Communication in Team Automata </td>
+			<td> <em> Maurice ter Beek: </em> Asynchronous Team Automata </td>
 		</tr>		
 		<tr>
 			<td>  09:30 - 10:00  </td>
