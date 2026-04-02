@@ -134,7 +134,7 @@ Note that the workshop will take place be in two different locations. On Thursda
 		</tr>
 		<tr>
 			<td> 16:30 - 16:50 </td>
-			<td> <em> Mohammad Mousavi: </em> TBA </td>
+			<td> <em> Mohammad Mousavi: </em> Behavioural Feature Models </td>
 			<td> </td>
 		</tr>
 		<tr>
