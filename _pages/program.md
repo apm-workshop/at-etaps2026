@@ -128,27 +128,32 @@ Note that the workshop will take place be in two different locations. On Thursda
 		 <td colspan="3"> </td>
 		</tr>
 		<tr>
-			<td> <b> 16:30 - 18:30 </b> </td>
+			<td> <b> 16:30 - 18:40 </b> </td>
 			<td> <b> Chair: Einar Broch Johnsen </b>  </td>
 			<td> </td>
 		</tr>
 		<tr>
-			<td> 16:30 - 17:10 </td>
+			<td> 16:30 - 16:50 </td>
+			<td> <em> Mohammad Mousavi: </em> TBA </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td> 16:50 - 17:20 </td>
 			<td> <em> Matteo Baldoni: </em> Evaluating the Benefits of Orpheus for Iterative and Incremental Development in MAS </td>
 			<td> </td>
 		</tr>
 		<tr>
-			<td> 17:10 - 17:40 </td>
+			<td> 17:20 - 17:50 </td>
 			<td> <em> Franco Barbanera: </em> Safe composition of systems of Communicating Finite State Machines </td>
 			<td> </td>
 		</tr>
 			<tr>
-			<td> 17:40 - 18:10 </td>
+			<td> 17:50 - 18:20 </td>
 			<td> <em> Riccardo Sieve: </em> A Self-Adaptive Digital Twin Architecture for Dynamic Resource Management </td>
 			<td> </td>
 		</tr>
 		<tr>
-			<td> 18:10 - 18:30 </td>
+			<td> 18:20 - 18:40 </td>
 			<td> <em> Daniel Drodt: </em> Towards Verification of Async Rust </td>
 			<td> </td>
 		</tr>
